@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "462717205091",
+    "firebase_url": "https://clipclop-4092c.firebaseio.com",
+    "project_id": "clipclop-4092c",
+    "storage_bucket": "clipclop-4092c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462717205091:android:63c8ed7deb52aef2",
+        "android_client_info": {
+          "package_name": "hk.com.clipclop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462717205091-97gtl91ink23fh1pjfcfg6a515kemgnn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hk.com.clipclop",
+            "certificate_hash": "ea17490d320ca7d7934a0ede9c7353f9ffefd92b"
+          }
+        },
+        {
+          "client_id": "462717205091-i3gtjnuksf8i6s4thrnoj4rltgpvgja0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYTE5oT1xL2Q5oQB7wYiiq46v2C5TvUck"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462717205091-i3gtjnuksf8i6s4thrnoj4rltgpvgja0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
